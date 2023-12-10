@@ -1,5 +1,7 @@
 # Gestión de Librería en Java con MySQL
 
+![Texto alternativo de la imagen](https://github.com/Briancardenas12/Gestor-de-Librer-a-en-Java-con-MySQL/blob/main/src/Recursos.Imagenes/Brian-Dev.png)
+
 Este es un proyecto Java para administrar una librería mediante una base de datos MySQL.
 
 ## Características
